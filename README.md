@@ -1,2 +1,3 @@
 # adsi
-kraken
+krakensolo adsi
+asdafasdqws
